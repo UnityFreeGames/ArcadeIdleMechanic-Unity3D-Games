@@ -2,8 +2,8 @@
 
 <br />
 Video tutorial part 1 :https://youtu.be/47TT90oOQOI<br />
-Video tutorial part 2 :<br />
-Video tutorial part 3 :<br />
+Video tutorial part 2 :https://youtu.be/9whKFoCIlVk<br />
+Video tutorial part 3 :https://youtu.be/TJJjxqkwTf8<br />
 
 Group :https://t.me/Unity_Free_Source<br /><br />
 🎨Game Artist : https://t.me/maria_artgallery<br />
