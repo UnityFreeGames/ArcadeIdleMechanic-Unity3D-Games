@@ -1,7 +1,7 @@
 # ArcadeIdleMechanic-Unity3D-Games
 
 <br />
-Video tutorial part 1 :<br />
+Video tutorial part 1 :https://youtu.be/47TT90oOQOI<br />
 Video tutorial part 2 :<br />
 Video tutorial part 3 :<br />
 
